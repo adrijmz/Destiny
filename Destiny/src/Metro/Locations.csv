@@ -1,0 +1,55 @@
+lineas,estacion,latitud,longitud,estaciones con las que conecta separadas por comas
+2,Aghios Antonios,38.006804791971334,23.69948099816945,Sepolia
+2,Sepolia,38.00265601293941,23.71352544236392,Attiki,Aghios Antonios
+12,Attiki,37.999338316761346,23.72208609661287,Larissa Station,Victoria,Aghios Nikolaos,Sepolia
+2,Larissa Station,37.99197380744245,23.72109006256059,Metaxourghio,Attiki
+2,Metaxourghio,37.98624790995056,23.72116330035451,Omonia,Larissa Station
+12,Omonia,37.984204487514134,23.728706793524594,Panepistimio,Victoria,Monastiraki,Metaxourghio
+2,Panepistimio,37.98037147394798,23.73308641383464,Syntagma,Omonia
+32,Syntagma,37.97467931030507,23.735693679437695,Akropoli,Evangelismos,Monastiraki,Panepistimio
+2,Akropoli,37.968744211199294,23.72962958978344,Sygrou-Fix,Syntagma
+2,Sygrou-Fix,37.96429834601641,23.7265389547144,Neos Kosmos,Akropoli
+2,Neos Kosmos,37.95760017077424,23.728457785008533,Aghios Ioannis,Sygrou-Fix
+2,Aghios Ioannis,37.95660694102351,23.7346976453843,Dafni,Neos Kosmos
+2,Dafni,37.94920349174353,23.737231673184507,Aghios Dimitrios,Aghios Ioannis
+2,Aghios Dimitrios,37.94077119780043,23.74071779235595,Dafni
+1,Kifissia,38.07388,23.80828,Kat
+1,Kat,38.06597,23.80402,Maroussi,Kifissia
+1,Maroussi,38.05637,23.80509,Neratziotissa,Kat
+1,Neratziotissa,38.04498,23.79315,Irini,Maroussi
+1,Irini,38.04376,23.78281,Irakleio,Neratziotissa
+1,Irakleio,38.04625,23.76615,Nea Ionia,Irini
+1,Nea Ionia,38.04163,23.75517,Pefkakia,Irakleio
+1,Pefkakia,38.03715,23.75008,Perissos,Nea Ionia
+1,Perissos,38.03282,23.74465,Ano Patissia,Pefkakia
+1,Ano Patissia,38.02392,23.73610,Aghios Eleftherios,Perissos
+1,Aghios Eleftherios,38.02008,23.73189,Kato Patissia,Ano Patissia
+1,Kato Patissia,38.01164,23.72880,Aghios Nikolaos,Aghios Eleftherios
+1,Aghios Nikolaos,38.00691,23.72767,Attiki,Kato Patissia
+1,Victoria,37.99325,23.73050,Omonia,Attiki
+13,Monastiraki,37.97616,23.72570,Thissio,Kerameikos,Syntagma,Omonia
+1,Thissio,37.97675,23.72060,Petralona,Monastiraki
+1,Petralona,37.96865,23.70929,Tavros,Thissio
+1,Tavros,37.96248,23.70332,Kallithea,Petralona
+1,Kallithea,37.96042,23.69742,Moschato,Tavros
+1,Moschato,37.95506,23.67967,Faliro,Kallithea
+1,Faliro,37.94495,23.66514,Piraeus,Moschato
+1,Piraeus,37.94817,23.64315,Faliro
+3,Egaelo,37.991924949689384,23.681791496867387,Eleonas
+3,Eleonas,37.98787885019261,23.694231718013338,Kerameikos,Egaelo
+3,Kerameikos,37.978478749662074,23.711672685838966,Monastiraki,Eleonas
+3,Evangelismos,37.97670545328622,23.74785353521684,Megaro Moussikis,Syntagma
+3,Megaro Moussikis,37.98169778829653,23.754088003037236 ,Ambelokipi,Evangelismos
+3,Ambelokipi,37.990862983349324,23.76097595724325,Panormou,Megaro Moussikis
+3,Panormou,37.993159129382725,23.76370739524547,Katehaki,Ambelokipi
+3,Katehaki,37.99593797073981,23.780004885965948,Ethniki Amyna,Panormou
+3,Ethniki Amyna,38.00084760595609,23.787249699947992,Holargos,Katehaki
+3,Holargos,38.00536745958067,23.796705678116517,Nomismatokopio,Ethniki Amyna
+3,Nomismatokopio,38.01132589027484,23.807326437021633,Aghia Paraskevi,Holargos
+3,Aghia Paraskevi,38.02088948959144,23.819733118232776,Halandri,Nomismatokopio
+3,Halandri,38.02183825115725,23.823021175436594,Doukissis Plakentias,Aghia Paraskevi
+3,Doukissis Plakentias,38.00701784875001,23.869198892139153,Pallini,Halandri
+3,Pallini,37.99518319710339,23.87265957892606,Paiania-Kantza,Doukissis Plakentias
+3,Paiania-Kantza,37.91628115493106,23.893584436237397,Koropi,Pallini
+3,Koropi,37.9361479112774,23.943737387040485,Airport,Paiania-Kantza
+3,Airport,37.93305653632048,23.940802499650975,Koropi
